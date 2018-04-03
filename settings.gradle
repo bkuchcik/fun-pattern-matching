@@ -1,0 +1,3 @@
+rootProject.name = 'fun-pattern-matching'
+
+include 'fun-pattern-matching-common', 'fun-pattern-matching-jvm', 'fun-pattern-matching-js'
